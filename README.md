@@ -1,4 +1,4 @@
-# Rainer Reichel (rreichel86)
+# Rainer Ernst Reichel (rreichel86)
 
 | | <img src="" alt=" " width="50px"/>|
 | --- | --- |
