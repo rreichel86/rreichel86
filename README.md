@@ -1,6 +1,6 @@
 # Rainer Ernst Reichel (rreichel86)
 
-| | <img src="" alt=" " width="50px"/>|
+| | |
 | --- | --- |
 | <img src="https://github.com/rreichel86/RHS-to-RHS-direct-welded-connections/blob/8e8198a217172292523ec0176b7d8fad18d4ec09/imagenes/icono-128.png" alt=""/> | [RHS-to-RHS-direct-welded-connections](https://github.com/rreichel86/RHS-to-RHS-direct-welded-connections) - Aplicacion web para el diseño de conexiones directamente soldadas entre miembros con perfiles tubulares rectangulares (RHS) |
 | <img src="https://github.com/rreichel86/quadtree/blob/6d73395c9ea051a2341df22b1a26a19e337ed64e/Examples/Images/YetiFootprint.png" alt=" " width="150px"/> | [quadtree](https://github.com/rreichel86/quadtree) - A Quadtree based finite element mesh generator to descretize two-dimensional heterogeneous solids |
